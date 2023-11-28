@@ -1,0 +1,10 @@
+1. O que são componentes em Java? Quais as principais diferenças entres componentes AWT e SWING?
+
+- Componentes = são os dispositivos visíveis e de interação com o usuário. Buttons, Labels, etc.
+
+- Diferenças:
+* O Swing possui diversos benefícios em relação a seu antecessor, o AWT;
+* AWT contém classes necessárias para interfaces e Swing tem classes complementares 
+para interfaces mais avançadas;
+* Swing é implementado sem código nativo, tem maior portabilidade e 
+maior consistência de uso entre plataformas.
